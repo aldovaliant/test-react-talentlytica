@@ -1,0 +1,14 @@
+select {
+  width: 12%;
+  margin-right: 2%;
+  margin-left: 1%;
+}
+
+.rowInput{
+  border: '1px';
+  border-style: 'solid';
+  margin-bottom: '1%';
+  padding: '1%';
+  margin-left: '20%';
+  margin-right: '20%';
+}
